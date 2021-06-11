@@ -11,6 +11,7 @@ body {
 }
 
 .grid-item {
+  display: grid;
   background-color: grey;
   border: 1px solid black;
 }
